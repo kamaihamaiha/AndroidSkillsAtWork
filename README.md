@@ -9,6 +9,7 @@
 3. VIP 挽留弹窗：自定义 AlertDialog
 4. VIP 购买弹窗：自定义 BottomSheetDialog，ViewPager2，TransitionDrawable 动画，主题颜色适配，Indicator 导航点，折叠问题，宽度问题
 5. 单词等级拖动条
+6. 自定义 TextView ，实现多种加粗效果。（尝试做）
 
 
 
