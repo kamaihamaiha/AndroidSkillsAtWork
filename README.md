@@ -19,6 +19,7 @@
 2. 设置不同主题颜色
 3. ExoPlayer
 4. PopupWindow
+5. [代码中动态设置，drawable 颜色](./change_ui_dynamically/main.md)
 
 ### Git
 
