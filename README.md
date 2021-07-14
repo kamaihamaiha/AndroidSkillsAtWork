@@ -20,6 +20,7 @@
 3. ExoPlayer
 4. PopupWindow
 5. [代码中动态设置，drawable 颜色](./change_ui_dynamically/main.md)
+6. [ViewPager2 同屏显示左右 item](https://www.jianshu.com/p/fc39b2519522)
 
 ### Git
 
