@@ -21,6 +21,8 @@
 4. PopupWindow
 5. [代码中动态设置，drawable 颜色](./change_ui_dynamically/main.md)
 6. [ViewPager2 同屏显示左右 item](https://www.jianshu.com/p/fc39b2519522)
+7. TabLayout 不熟悉
+8. OkHttp 请求，表单提交，发送参数和文件。不熟悉
 
 ### Git
 
